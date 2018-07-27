@@ -1,2 +1,2 @@
 # nginx_config
-20180727
+nginx在linux下的配置案例包括静态资源和反向代理的配置。
